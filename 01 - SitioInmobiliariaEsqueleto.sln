@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "01 - SitioInmobiliariaEsqueleto", ".", "{7EF479FF-A65F-4139-9728-9747AB2CE4CD}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/ListaViviendas"
+		Debug.AspNetCompiler.PhysicalPath = "..\01 - SitioInmobiliariaEsqueleto\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\ListaViviendas\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/ListaViviendas"
+		Release.AspNetCompiler.PhysicalPath = "..\01 - SitioInmobiliariaEsqueleto\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\ListaViviendas\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1127"
+		SlnRelativePath = "..\01 - SitioInmobiliariaEsqueleto\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EF479FF-A65F-4139-9728-9747AB2CE4CD}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{7EF479FF-A65F-4139-9728-9747AB2CE4CD}.Debug|.NET.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
